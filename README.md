@@ -23,6 +23,9 @@ Cloud), then this will be the solution. If you have had changes locally
 that overlap with the pulled changes on GitHub, you will receive another
 error message (to be written up).
 
+In this case, the file `ae-10a-lifecycle-solutions.qmd` was added to the
+repo by an instructor.
+
 ![](img/integrate-remote-before-pushing-02.png)
 
 **Push**. And keep on working with the next commit.
